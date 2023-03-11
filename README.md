@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything tech 
 - 🌱 I currently speak these languages: Java, Kotlin, Python, Javascript; Frameworks includes Spring boot, Django, React.
 - 💞️ I’m looking to collaborate on any project that can grow my skill
-- 📫 How to reach me? Twitter, IG, LinkedIn - @Mafsholl 
+- 📫 How to reach me? Twitter, IG, - @Mafsholl; LinkedIn - linkedin.com/in/adeshola-mafikuyomi
 
 <!---
 MafSholl/MafSholl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
