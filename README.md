@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Mafsholl
-- 👀 I’m interested in anything tech 
-- 🌱 I currently speak these languages: Java, Python, PHP, Javascript; Frameworks includes Spring Boot, Django, Laravel, React.
-- 💞️ I’m looking to collaborate on any project that can grow my skill
-- 📫 How to reach me? LinkedIn - linkedin.com/in/adeshola-mafikuyomi
+### Hi, I'm Adeshola 👋
 
-<!---
-MafSholl/MafSholl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend engineer building on **Java, Spring Boot and PostgreSQL** in Lagos, Nigeria.
+I design multi-tenant SaaS systems and domain-heavy backends, and I write tests first.
+
+**What I work on**
+- Multi-tenant SaaS architecture: tenant isolation, schema design, access control
+- Fintech-style systems: ledgers, transactions, payment flows
+- Marketplace and mobility platforms for the Nigerian market
+
+**Currently building**
+- A multi-tenant church management platform (Spring Boot, PostgreSQL)
+- A peer-to-peer commuter carpooling platform for Lagos
+
+**Stack**
+
+`Java` `Spring Boot` `Spring Security` `Spring Data JPA` `PostgreSQL` `JUnit 5` `Mockito` `Testcontainers` `Maven` `Docker` `REST` `Kotlin`
+
+**How I work**
+- Test-driven development as the default, not an afterthought
+- Clear domain boundaries before microservices
+- Architecture decisions written down
+
+📫 [LinkedIn](https://linkedin.com/in/adeshola-mafikuyomi)
