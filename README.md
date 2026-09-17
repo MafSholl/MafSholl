@@ -1,6 +1,6 @@
 ### Hi, I'm Adeshola 👋
 
-Backend engineer building on **Java, Spring Boot and PostgreSQL** in Lagos, Nigeria.
+Backend engineer building on **Java, Spring Boot and SQLServer/PostgreSQL** in Lagos, Nigeria.
 I design multi-tenant SaaS systems and domain-heavy backends, and I write tests first.
 
 **What I work on**
